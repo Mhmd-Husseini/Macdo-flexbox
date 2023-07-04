@@ -1,0 +1,14 @@
+.main{
+    margin-right: 14%;
+    margin-left: 14%;
+    display: flex;
+    justify-content: space-between;
+}
+.main-left{
+background-color: red;
+width: 30%;
+}
+.main-right{
+background-color: aqua;
+width: 65%;
+}
